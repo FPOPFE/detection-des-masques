@@ -14,10 +14,10 @@
 Ce systeme peut etre utilise dans une application en temps reel dans les espaces public quel soit les bureaux, les ecoles, l'aeroport, les gares...etc. afin de detecter les personne qui portent les masques, pour eviter les nouveux infectations de virus, et d'assurer la securite des personnes. 
 
 ## :file_folder: Dataset
-le Dataset utilise dans le projet peut etre telecharger ici - [Click to Download](https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset)
+le Dataset utilise dans le projet peut etre telecharger ici - [Clique pour Telecharger](https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset)
 
 
-<a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Ouvrir dans Colab"/></a>
+<a href="https://github.com/FPOPFE/detection-des-masques/blob/main/detection-module.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Ouvrir dans Colab"/></a>
 
 Le dataset contiens __1006 images__ divise par deux parties:
 *	__avec_mask: 500 images__
@@ -46,7 +46,8 @@ pip3 install keras
 
 ## :key: Resultats
 
-![]()
+![](images/1.png)
+![](images/2.png)
 
 
 ## :clap: Et c'est tout!
